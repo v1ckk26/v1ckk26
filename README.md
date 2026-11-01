@@ -6,23 +6,18 @@
 
 ---
 
-### 👨‍💻 About Me
+### 🖤 About Me
 
-```yaml
-name: Vicky
-role: Aspiring Web Developer
-education: TJKT Student
-interests:
-  - Web Development
-  - Programming
-  - Technology
-currently_learning:
-  - HTML
-  - CSS
-  - JavaScript
-  - Python
-goal: Become a better developer every day.
-```
+Hey! I'm Vicky, an aspiring developer who enjoys exploring the world of technology and turning ideas into something meaningful.
+
+I'm currently focused on **Web Development**, learning how to build clean, responsive, and functional websites while continuously improving my coding skills.
+
+- 💻 Currently exploring HTML, CSS, JavaScript & Python.
+- 🌱 Always curious about new technologies and development.
+- 🛠️ Learning by building projects and experimenting.
+- 🎯 Working towards becoming a skilled web developer.
+
+I believe every great project starts with curiosity and a willingness to learn.
 
 ### 🛠️ Tech Stack
 
