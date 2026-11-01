@@ -28,20 +28,20 @@ I believe every great project starts with curiosity and a willingness to learn.
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=v1ckk26&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=v1ckk26&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 ### 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=github-dark-blue&hide_border=true" />
+  <img width="70%" src="https://streak-stats.demolab.com/?user=v1ckk26&theme=github-dark-blue&hide_border=true" />
 </p>
 
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-compact&hide_border=true&area=true" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=v1ckk26&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=ffffff&area=true&hide_border=true" />
 </p>
 
 ---
