@@ -8,7 +8,7 @@
 
 ### 🖤 About Me
 
-Hey! I'm Vicky, an aspiring developer who enjoys exploring the world of technology and turning ideas into something meaningful.
+Hey! I'm v1ckk, an aspiring developer who enjoys exploring the world of technology and turning ideas into something meaningful.
 
 I'm currently focused on **Web Development**, learning how to build clean, responsive, and functional websites while continuously improving my coding skills.
 
