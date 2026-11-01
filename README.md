@@ -1,16 +1,69 @@
-## Hi there 👋
+# Hi there, I'm Vicky 👋
 
-<!--
-**v1ckk26/v1ckk26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Web+Development+Enthusiast;Learning+HTML%2C+CSS+%26+JavaScript;Building+Ideas+Into+Reality" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+
+```yaml
+name: Vicky
+role: Aspiring Web Developer
+education: TJKT Student
+interests:
+  - Web Development
+  - Programming
+  - Technology
+currently_learning:
+  - HTML
+  - CSS
+  - JavaScript
+  - Python
+goal: Become a better developer every day.
+```
+
+### 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode" />
+</p>
+
+### 📊 GitHub Statistics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+### 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=github-dark-blue&hide_border=true" />
+</p>
+
+### 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-compact&hide_border=true&area=true" />
+</p>
+
+---
+
+### 🎯 Current Focus
+
+- Improving my web development skills.
+- Learning JavaScript and Python.
+- Building personal projects.
+- Exploring new technologies.
+
+---
+
+<p align="center">
+  <i>"Building something meaningful, one line of code at a time."</i>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=grey&label=Profile+Views" />
+</p>
