@@ -1,4 +1,4 @@
-# Hi there, I'm Vicky 👋
+# Hi there, I'm v1ckk 👋
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Web+Development+Enthusiast;Learning+HTML%2C+CSS+%26+JavaScript;Building+Ideas+Into+Reality" alt="Typing SVG" />
